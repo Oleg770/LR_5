@@ -1,2 +1,3 @@
-﻿  Source.cpp
-  ConsoleApplication1 LR_5.6.vcxproj -> D:\Student\Semester_1\АП\ConsoleApplication1 LR_5.6\Debug\ConsoleApplication1 LR_5.6.exe
+﻿ConsoleApplication1 LR_5.6.obj : error LNK2005: "double __cdecl k(double,double)" (?k@@YANNN@Z) уже определен в Source.obj
+ConsoleApplication1 LR_5.6.obj : error LNK2005: _main уже определен в Source.obj
+D:\Student\Semester_1\АП\ConsoleApplication1 LR_5.6\Debug\ConsoleApplication1 LR_5.6.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более
